@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(231, 215, 194); 
+    font-size: 80px; 
+}
+
+h1{
+    text-align: center;
+    font-family: "Times New Roman";
+    font-size: 80px;
+    color: blue;    
+}
+a{
+    color:red;
+    font-size: 50px;
+    font-family: "Times New Roman";
+    transition: 1s;
+}
+a:hover{
+  
+background-color: #cc0000;
+   color:white;
+   text-decoration: none;
+   font-style: italic;
+   font-size:100px;
+   font-family: "Arial";
+}
+
+h2{
+    text-align: center;
+    font-family: "Arial";
+    font-size: 50px;   
+    color: brown;
+}
+.uno{
+    text-align: center;
+    font-size: 30px;
+    font-family: "Serif";
+    color:green
+}
+.dos{
+    text-align: center;
+    font-size: 20px;
+    font-family:"Sans";
+    color:gray;
+}
+.Enlace1{
+    text-align: center;
+    font-size: 90px;
+    color:#cc0000;   
+    
+}
+
+.Enlace1:hover{
+    font-size: 160px;
+    color:blue;
+    font-style: italic;
+}
