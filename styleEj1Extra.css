@@ -1,0 +1,51 @@
+.body-Eje1Extra {
+  background-color: rgb(188, 187, 187);
+}
+.h1-Eje1Extra {
+    text-align: center;
+  font-size: 80px;
+  text-decoration: underline;
+  font-family: "Dancing Script";
+  color: Red;
+}
+.ul-Eje1Extra {
+  text-decoration: none;
+}
+.li1 {
+  font-size: 30px;
+  text-decoration: none;
+  font-family: "Arial";
+  color: black;
+  :hover {
+    font-size: 40px;
+    background-color: blue;
+    color:white;
+  }
+}
+.aEj1-Extra {
+  font-size: 30px;
+  text-decoration: none;
+  font-family: "Times New Roman";
+  color: black;
+}
+
+.liUl1 {
+  font-size: 30px;
+  text-decoration: none;
+  font-family: "Dancing Script";
+  color: black;
+}
+.h2-Eje1Extra{
+    font-size: 60px;
+  text-decoration: none;
+  font-family: "Dancing Script";
+  color: blue;
+}
+.footerEje1Extra{ 
+  background-color: blue;  
+ text-align: center; 
+ font-size: 30px;    
+  font-family: "Comic Sans MS";
+  color: white;
+  
+}
