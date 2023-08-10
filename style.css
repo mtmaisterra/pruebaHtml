@@ -112,3 +112,53 @@ color:red;
     text-decoration: none;
  
 }
+.fs-1{
+    color: red;
+    font-size: 120px;
+    font-style: bold;
+    font-family: "Arial";
+}
+.container{
+    text-align: center;   
+}
+.body-Ej13{
+    margin-left: 20px;
+    background-color:lemonchiffon;
+
+}
+.border-Ej13{
+    border: 2px solid black;
+    margin: 20px;
+    padding: 40px;
+}
+.h1-Ej13{
+font-family:"Georgia";
+font-size: 80px;
+color:blue;
+}
+.label1-Ej13{
+    text-align: center;
+    font-family: "Arial";
+    font-size: 40px;
+}
+.password-Ej13{
+    font-size: 20px;
+}
+.form-control-Ej13{
+    font-size: 30px;
+}
+.form-check-input{   
+    border: 1px black solid ;
+    background-color: grey;
+    font-size: 40px;
+}
+.form-check-label{    
+    font-family: "Arial"; 
+    font-size: 40px;     
+}
+.btn-primary-Ej13{
+    text-align: center;
+    color:white;
+    background-color: blue;
+    font-size: 40px;
+}
