@@ -1,0 +1,10 @@
+nav{
+    color:blue;
+    font-family: "Arial";
+    background-color: darksalmon;
+:hover{
+    color:black;
+    font-family: "Times New Roman";
+    background-color: gray;
+}
+}
